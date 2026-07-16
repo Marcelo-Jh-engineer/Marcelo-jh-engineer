@@ -1,7 +1,7 @@
 <h1 align="center">Olá, eu sou Marcelo Jhones 👋</h1>
 
 <p align="center">
-  Full Stack Engineer | Backend Java | Node.js | Arquitetura de Software
+  Full Stack Engineer | Arquitetura de Software
 </p>
 
 <p align="center">

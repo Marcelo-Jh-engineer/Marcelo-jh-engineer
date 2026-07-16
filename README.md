@@ -1,7 +1,7 @@
 <h1 align="center">Olá, eu sou Marcelo Jhones 👋</h1>
 
 <p align="center">
-  Full Stack Engineer | Arquitetura de Software
+  Full Stack Engineer | Backend Java | Node.js | Arquitetura de Software
 </p>
 
 <p align="center">
@@ -76,6 +76,14 @@
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
   <img src="https://img.shields.io/badge/YOLO-111F68?style=for-the-badge&logo=yolo&logoColor=white" />
+</p>
+
+**AI Coding Tools**
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
+  <img src="https://img.shields.io/badge/Codex-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenCode-000000?style=for-the-badge&logo=terminal&logoColor=white" />
 </p>
 
 ---

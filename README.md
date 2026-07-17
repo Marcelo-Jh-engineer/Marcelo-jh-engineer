@@ -13,7 +13,7 @@
 ### 🚀 Sobre mim
 
 - 💼 Desenvolvedor Full Stack com mais de 5 anos de experiência em aplicações web corporativas e projetos para administração pública
-- 🏗️ Construção de APIs escaláveis com **Java (Spring Boot, Quarkus)** e **Node.js**
+- 🏗️ Construção de APIs escaláveis com **Java (Spring Boot, Quarkus)**, **Node.js** e **Python**
 - ⚛️ Frontend com **React.js** e **Next.js**
 - 🗄️ Modelagem de banco de dados **PostgreSQL** e arquiteturas baseadas em **microsserviços**
 - 🧠 Aplicando **SOLID**, **Clean Code** e **Design Patterns** no dia a dia
